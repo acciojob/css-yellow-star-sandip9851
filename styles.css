@@ -1,8 +1,13 @@
 /*  your css code here. If applicable */
+body{
+	border-left:2px solid black;
+}
 .star {
+	
   clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
   background-color: yellow;
   width: 100px;
   height: 100px;
   display: inline-block;
+	
 }
